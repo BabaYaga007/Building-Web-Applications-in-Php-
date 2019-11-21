@@ -5,4 +5,4 @@ This is a repository that has all the assignments of Course 1 (Building Web Appl
 
 The course is taught by Professor Charles Severance of University of Michigan.
 
-Platform : Coursra
+Platform : Coursera
